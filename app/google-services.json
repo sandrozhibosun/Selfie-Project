@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628888372089",
+    "project_id": "dec14selfie",
+    "storage_bucket": "dec14selfie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628888372089:android:5785743c138de27eeca5a8",
+        "android_client_info": {
+          "package_name": "com.apolis.dec14selfie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628888372089-gl4b3tpqdlhdvi0kok3j2lh47fjfsil6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHwQjNRvWx3_7cZQ-AFSjL4Tf0q64yyZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628888372089-gl4b3tpqdlhdvi0kok3j2lh47fjfsil6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
